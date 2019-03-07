@@ -4,7 +4,7 @@ This script will help you out by giving you a **ready to use** function which wi
 
 It uses the `fecth API`, the `.then` and `.catch` functions to get the data from the url.
 
-You can also use the `Async` way, which can be see as cleaner code.
+You can also use the `Async` way, which can be seen as cleaner code.
 
 This is by no means an advance level code, i made it because i wanted to practice requests in JS, so feel free to give some advice or even improve the code.
 
